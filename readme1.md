@@ -18,17 +18,16 @@ line. <br />
 
 * Build useful web application with only a few lines of code&mdash;no JavaScript
   required.
-* Attractive default UI theme based on [Bootstrap] (http://getbootstrap.com/).
 * Attractive default UI theme based on [Bootstrap](http://getbootstrap.com/)
 
 To install the lastest development builds directly from GitHub, run this
 instead:
 
-'''r
+```r
 if (!required("devtools"))
     install.packages("devtools")
 devtools::install_github("rstudio/shiny")
-'''
+```
 
 <p align="center">
     <a href="https://www.hackerrank.com/shanonhaliwell">
@@ -40,13 +39,13 @@ devtools::install_github("rstudio/shiny")
 
 Solutions are coded using Java 8.  
 
-* [10 Days of Statistics] (#10-days-of-statistics)
-* [Algorithms] (#algorithms)
-* [Data Strutures] (#data-strutures)
+* [10 Days of Statistics](#10-days-of-statistics)
+* [Algorithms](#algorithms)
+* [Data Strutures](#data-strutures)
 
 # 10 Days of Statistics
 
 |  Day  |                                                   Challenge                                           |    Points   |                                           Solution                                                                          |
 |:-----:|:-----------------------------------------------------------------------------------------------------:|:-----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   0   | [Mean, Median, and Mode] (https://www.hackerrank.com/challenges/s10-basic-statistics)                 |      30     | [Solution.java] (https://github.com/rshaghoulian/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%200%20-%20Mean%2C%20Median%2C%20and%20Mode/Solution.java)                        |
+|   0   | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics)                  |      30     | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%200%20-%20Mean%2C%20Median%2C%20and%20Mode/Solution.java)                         |
 

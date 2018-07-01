@@ -31,6 +31,10 @@ Solutions are coded using Java 8.
 
 # 10 Days of Statistics
 
+|  Day  |                         Challenge                             |   Points  |                           Solution                                   |
+|:-----:|:-------------------------------------------------------------:|:---------:|:--------------------------------------------------------------------:|
+|  0    | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics) |  30  | Solution.java  |
+
 | Day |                                                          Challenge
 | Points |
 Solution                                                    |

@@ -15,9 +15,11 @@ line. <br />
 | zebra stripes       | are neat           | $1              |
 
 ## Feature
+
 * Build useful web application with only a few lines of code&mdash;no JavaScript
   required.
 * Attractive default UI theme based on [Bootstrap] (http://getbootstrap.com/).
+* Attractive default UI theme based on [Bootstrap](http://getbootstrap.com/)
 
 To install the lastest development builds directly from GitHub, run this
 instead:
